@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe6c1416.css",
+    "main.js": "/static/js/main.dee74d77.js",
+    "static/js/787.c0b6c9b1.chunk.js": "/static/js/787.c0b6c9b1.chunk.js",
+    "static/media/biblioteca.jpg": "/static/media/biblioteca.b2a5d37afcbee434cad2.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logocraimark.svg": "/static/media/logocraimark.e5277a1cf8c0e9f7c477890a2f755ed9.svg",
+    "index.html": "/index.html",
+    "main.fe6c1416.css.map": "/static/css/main.fe6c1416.css.map",
+    "main.dee74d77.js.map": "/static/js/main.dee74d77.js.map",
+    "787.c0b6c9b1.chunk.js.map": "/static/js/787.c0b6c9b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe6c1416.css",
+    "static/js/main.dee74d77.js"
+  ]
+}
